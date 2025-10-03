@@ -22,7 +22,7 @@ Responsible for planning and scrum iterations, requirement grooming, presenting 
 
 ## 🏆 Achievements & Experience
 
-- Led Automation teams of 10+ members across India, Singapore, and North America.
+- Lead Automation teams of 10+ members across India, Singapore, and North America.
 - On-site coordinator for 2+ years, establishing QA and DevOps teams.
 - Designed and implemented diverse automation frameworks: Data Driven, Keyword Driven, Hybrid, Data Quality validation.
 - Developed automation solutions for ETL & Data pipelines using Python & GreatExpectations.
